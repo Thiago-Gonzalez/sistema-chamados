@@ -1,7 +1,7 @@
 # Sistema de Chamados
-Sistema de Chamados é um projeto web criado como forma de aprendizagem e prática durante o curso "React Js do zero ao avançado na pratica" do Matheus Fraga (Sujeito Programador), disponível na plataforma Udemy. </br></br>
+Sistema de Chamados é um projeto web criado durante o curso "React Js do zero ao avançado na pratica" do Matheus Fraga (Sujeito Programador), disponível na plataforma Udemy. </br></br>
 Para criação deste projeto, foi utilizada a linguagem JavaScript e sua biblioteca React.js. </br></br>
-Durante seu desenvolvimento foi possível praticar as react hooks como useState, useEffect, useContext(Context Api), do react, bem como useHistory, useParams e gerenciamento de rotas do react-router-dom. </br></br>
+Durante seu desenvolvimento foi possível praticar as react hooks como useState, useEffect, useContext(Context Api), bem como useHistory, useParams e gerenciamento de rotas do react-router-dom. </br></br>
 Além disso, foi utilizado o firebase para armazenamento/gerenciamento dos dados.
 
 ## Visualização do Projeto (hosting local):
